@@ -1,1 +1,10 @@
 $hn = hostname; Get-NetAdapter | Select Name, MacAddress; Write-Host "Hostname: $hn"
+
+Hostname: DESKTOP-U9R7K9P
+Name                          MacAddress
+----                          ----------
+Сетевое подключение Bluetooth 6C-2F-80-C2-B9-BE
+Беспроводная сеть             6C-2F-80-C2-B9-BA
+Подключение по локальной сети 00-FF-89-E8-8A-61
+Ethernet                      00-05-9A-3C-7A-00
+vEthernet (Default Switch)    00-15-5D-3B-57-A7
