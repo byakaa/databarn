@@ -1,0 +1,1 @@
+$hn = hostname; Get-NetAdapter | Select Name, MacAddress; Write-Host "Hostname: $hn"
